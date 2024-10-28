@@ -1,4 +1,4 @@
-https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322942/diagram-of-the-brain-stem.jpg
+
 ## Project Overview
 This project aims to predict the likelihood of a stroke based on various health parameters using machine learning models. The dataset is preprocessed, analyzed, and multiple models are trained to achieve the best prediction accuracy.
 
